@@ -16,7 +16,7 @@ public class Github_act extends AppCompatActivity {
 
     private Spinner Sp;
     private TextView Txt;
-    String[] precios = new String[]{"7000","22000","45000","88000","156000"};
+    String[] precios = new String[]{"7000","22000","46000","87000","155000"};
     private Button BotonMostrar;
 
     @Override

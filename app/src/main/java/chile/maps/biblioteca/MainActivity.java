@@ -90,7 +90,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void inicioGit(View v){
-        String[] libros = {"Farenheit", "Revival","El Alquimista","El poder","Despertar"};
+        String[] libros = {"Farenheit.", "Revival.","El Alquimista.","El poder.","Despertar."};
         Intent i = new Intent(this , Github_act.class);
         i.putExtra("libros",libros);
         startActivity(i);
